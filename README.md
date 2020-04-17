@@ -1,10 +1,10 @@
 # EHIS TREE VIEW (Multi level menu)
 
-Front end: Using Angular version 8.3.2.
+- Front end: Using Angular version 8.3.2.
 
-Back end: ASP.NET Core API version 3.1.0.
+- Back end: ASP.NET Core API version 3.1.0.
 
-Database: MS SQL Server.
+- Database: MS SQL Server.
 
 ## Development
 
@@ -15,9 +15,9 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`.
 Run `dotnet run --urls="http://localhost:5000"`.
 
 ### Database
-Open [EHIS.DB.TreeView.sql](https://github.com/thuydx98/ehis-tree-view/blob/master/database/EHIS.DB.TreeView.sql) file and Excute to generate database in SQL Server.
+Open [EHIS.DB.TreeView.sql](https://github.com/thuydx98/ehis-tree-view/blob/master/database/EHIS.DB.TreeView.sql) file and excute to generate database in SQL Server.
 
-Note: With default, Backend using "Windows Authentication". If you want to change to another authenticate method, edit DevConnection in [appsettings.json](https://github.com/thuydx98/ehis-tree-view/blob/master/back-end/EHISApi/appsettings.json) file.
+Note: With default, backend using "Windows Authentication". If you want to change to another authenticate method, edit DevConnection in [appsettings.json](https://github.com/thuydx98/ehis-tree-view/blob/master/back-end/EHISApi/appsettings.json) file.
 
 ## Contact infomation
 
