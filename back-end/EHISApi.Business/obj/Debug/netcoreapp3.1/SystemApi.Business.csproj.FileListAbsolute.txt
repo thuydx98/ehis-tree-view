@@ -1,0 +1,8 @@
+C:\Users\thuyd\Desktop\CSMS\System\CSMS.API\SystemApi\SystemApi.Business\bin\Debug\netcoreapp3.1\SystemApi.Business.deps.json
+C:\Users\thuyd\Desktop\CSMS\System\CSMS.API\SystemApi\SystemApi.Business\bin\Debug\netcoreapp3.1\SystemApi.Business.dll
+C:\Users\thuyd\Desktop\CSMS\System\CSMS.API\SystemApi\SystemApi.Business\bin\Debug\netcoreapp3.1\SystemApi.Business.pdb
+C:\Users\thuyd\Desktop\CSMS\System\CSMS.API\SystemApi\SystemApi.Business\obj\Debug\netcoreapp3.1\SystemApi.Business.csprojAssemblyReference.cache
+C:\Users\thuyd\Desktop\CSMS\System\CSMS.API\SystemApi\SystemApi.Business\obj\Debug\netcoreapp3.1\SystemApi.Business.AssemblyInfoInputs.cache
+C:\Users\thuyd\Desktop\CSMS\System\CSMS.API\SystemApi\SystemApi.Business\obj\Debug\netcoreapp3.1\SystemApi.Business.AssemblyInfo.cs
+C:\Users\thuyd\Desktop\CSMS\System\CSMS.API\SystemApi\SystemApi.Business\obj\Debug\netcoreapp3.1\SystemApi.Business.dll
+C:\Users\thuyd\Desktop\CSMS\System\CSMS.API\SystemApi\SystemApi.Business\obj\Debug\netcoreapp3.1\SystemApi.Business.pdb

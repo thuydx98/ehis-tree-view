@@ -1,0 +1,272 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\thuyd\\Desktop\\ehis-tree-view\\back-end\\SystemApi.Framework\\SystemApi.Framework.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\thuyd\\Desktop\\ehis-tree-view\\back-end\\SystemApi.Common\\EHISApi.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\thuyd\\Desktop\\ehis-tree-view\\back-end\\SystemApi.Common\\EHISApi.Common.csproj",
+        "projectName": "EHISApi.Common",
+        "projectPath": "C:\\Users\\thuyd\\Desktop\\ehis-tree-view\\back-end\\SystemApi.Common\\EHISApi.Common.csproj",
+        "packagesPath": "C:\\Users\\thuyd\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\thuyd\\Desktop\\ehis-tree-view\\back-end\\SystemApi.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\thuyd\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\thuyd\\Desktop\\ehis-tree-view\\back-end\\SystemApi.Constants\\EHISApi.Constants.csproj": {
+                "projectPath": "C:\\Users\\thuyd\\Desktop\\ehis-tree-view\\back-end\\SystemApi.Constants\\EHISApi.Constants.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\thuyd\\Desktop\\ehis-tree-view\\back-end\\SystemApi.Constants\\EHISApi.Constants.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\thuyd\\Desktop\\ehis-tree-view\\back-end\\SystemApi.Constants\\EHISApi.Constants.csproj",
+        "projectName": "EHISApi.Constants",
+        "projectPath": "C:\\Users\\thuyd\\Desktop\\ehis-tree-view\\back-end\\SystemApi.Constants\\EHISApi.Constants.csproj",
+        "packagesPath": "C:\\Users\\thuyd\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\thuyd\\Desktop\\ehis-tree-view\\back-end\\SystemApi.Constants\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\thuyd\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\thuyd\\Desktop\\ehis-tree-view\\back-end\\SystemApi.Data\\EHISApi.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\thuyd\\Desktop\\ehis-tree-view\\back-end\\SystemApi.Data\\EHISApi.Data.csproj",
+        "projectName": "EHISApi.Data",
+        "projectPath": "C:\\Users\\thuyd\\Desktop\\ehis-tree-view\\back-end\\SystemApi.Data\\EHISApi.Data.csproj",
+        "packagesPath": "C:\\Users\\thuyd\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\thuyd\\Desktop\\ehis-tree-view\\back-end\\SystemApi.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\thuyd\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\thuyd\\Desktop\\ehis-tree-view\\back-end\\SystemApi.Common\\EHISApi.Common.csproj": {
+                "projectPath": "C:\\Users\\thuyd\\Desktop\\ehis-tree-view\\back-end\\SystemApi.Common\\EHISApi.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\thuyd\\Desktop\\ehis-tree-view\\back-end\\SystemApi.Framework\\SystemApi.Framework.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\thuyd\\Desktop\\ehis-tree-view\\back-end\\SystemApi.Framework\\SystemApi.Framework.csproj",
+        "projectName": "SystemApi.Framework",
+        "projectPath": "C:\\Users\\thuyd\\Desktop\\ehis-tree-view\\back-end\\SystemApi.Framework\\SystemApi.Framework.csproj",
+        "packagesPath": "C:\\Users\\thuyd\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\thuyd\\Desktop\\ehis-tree-view\\back-end\\SystemApi.Framework\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\thuyd\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\thuyd\\Desktop\\ehis-tree-view\\back-end\\SystemApi.Data\\EHISApi.Data.csproj": {
+                "projectPath": "C:\\Users\\thuyd\\Desktop\\ehis-tree-view\\back-end\\SystemApi.Data\\EHISApi.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "DryIoc.dll": {
+              "target": "Package",
+              "version": "[2.12.1, )"
+            },
+            "Microsoft.AspNetCore.Authorization": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

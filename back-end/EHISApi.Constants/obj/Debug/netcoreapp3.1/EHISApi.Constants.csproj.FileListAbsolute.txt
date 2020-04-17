@@ -1,0 +1,8 @@
+C:\Users\thuyd\Desktop\ehis-tree-view\back-end\SystemApi.Constants\bin\Debug\netcoreapp3.1\EHISApi.Constants.deps.json
+C:\Users\thuyd\Desktop\ehis-tree-view\back-end\SystemApi.Constants\bin\Debug\netcoreapp3.1\EHISApi.Constants.dll
+C:\Users\thuyd\Desktop\ehis-tree-view\back-end\SystemApi.Constants\bin\Debug\netcoreapp3.1\EHISApi.Constants.pdb
+C:\Users\thuyd\Desktop\ehis-tree-view\back-end\SystemApi.Constants\obj\Debug\netcoreapp3.1\EHISApi.Constants.AssemblyInfoInputs.cache
+C:\Users\thuyd\Desktop\ehis-tree-view\back-end\SystemApi.Constants\obj\Debug\netcoreapp3.1\EHISApi.Constants.AssemblyInfo.cs
+C:\Users\thuyd\Desktop\ehis-tree-view\back-end\SystemApi.Constants\obj\Debug\netcoreapp3.1\EHISApi.Constants.dll
+C:\Users\thuyd\Desktop\ehis-tree-view\back-end\SystemApi.Constants\obj\Debug\netcoreapp3.1\EHISApi.Constants.pdb
+C:\Users\thuyd\Desktop\ehis-tree-view\back-end\SystemApi.Constants\obj\Debug\netcoreapp3.1\EHISApi.Constants.csprojAssemblyReference.cache

@@ -1,0 +1,19 @@
+C:\Users\thuyd\Desktop\CSMS\System\CSMS.API\SystemApi\SystemApi.Common\bin\Debug\netcoreapp3.1\SystemApi.Common.deps.json
+C:\Users\thuyd\Desktop\CSMS\System\CSMS.API\SystemApi\SystemApi.Common\bin\Debug\netcoreapp3.1\SystemApi.Common.dll
+C:\Users\thuyd\Desktop\CSMS\System\CSMS.API\SystemApi\SystemApi.Common\bin\Debug\netcoreapp3.1\SystemApi.Common.pdb
+C:\Users\thuyd\Desktop\CSMS\System\CSMS.API\SystemApi\SystemApi.Common\obj\Debug\netcoreapp3.1\SystemApi.Common.csprojAssemblyReference.cache
+C:\Users\thuyd\Desktop\CSMS\System\CSMS.API\SystemApi\SystemApi.Common\obj\Debug\netcoreapp3.1\SystemApi.Common.AssemblyInfoInputs.cache
+C:\Users\thuyd\Desktop\CSMS\System\CSMS.API\SystemApi\SystemApi.Common\obj\Debug\netcoreapp3.1\SystemApi.Common.AssemblyInfo.cs
+C:\Users\thuyd\Desktop\CSMS\System\CSMS.API\SystemApi\SystemApi.Common\obj\Debug\netcoreapp3.1\SystemApi.Common.dll
+C:\Users\thuyd\Desktop\CSMS\System\CSMS.API\SystemApi\SystemApi.Common\obj\Debug\netcoreapp3.1\SystemApi.Common.pdb
+C:\Users\thuyd\Desktop\CSMS\API - Standard\StandardApi\SystemApi.Common\bin\Debug\netcoreapp3.1\SystemApi.Common.deps.json
+C:\Users\thuyd\Desktop\CSMS\API - Standard\StandardApi\SystemApi.Common\bin\Debug\netcoreapp3.1\SystemApi.Common.dll
+C:\Users\thuyd\Desktop\CSMS\API - Standard\StandardApi\SystemApi.Common\bin\Debug\netcoreapp3.1\SystemApi.Common.pdb
+C:\Users\thuyd\Desktop\CSMS\API - Standard\StandardApi\SystemApi.Common\bin\Debug\netcoreapp3.1\SystemApi.Constants.dll
+C:\Users\thuyd\Desktop\CSMS\API - Standard\StandardApi\SystemApi.Common\bin\Debug\netcoreapp3.1\SystemApi.Constants.pdb
+C:\Users\thuyd\Desktop\CSMS\API - Standard\StandardApi\SystemApi.Common\obj\Debug\netcoreapp3.1\SystemApi.Common.csprojAssemblyReference.cache
+C:\Users\thuyd\Desktop\CSMS\API - Standard\StandardApi\SystemApi.Common\obj\Debug\netcoreapp3.1\SystemApi.Common.AssemblyInfoInputs.cache
+C:\Users\thuyd\Desktop\CSMS\API - Standard\StandardApi\SystemApi.Common\obj\Debug\netcoreapp3.1\SystemApi.Common.AssemblyInfo.cs
+C:\Users\thuyd\Desktop\CSMS\API - Standard\StandardApi\SystemApi.Common\obj\Debug\netcoreapp3.1\SystemApi.Common.csproj.CopyComplete
+C:\Users\thuyd\Desktop\CSMS\API - Standard\StandardApi\SystemApi.Common\obj\Debug\netcoreapp3.1\SystemApi.Common.dll
+C:\Users\thuyd\Desktop\CSMS\API - Standard\StandardApi\SystemApi.Common\obj\Debug\netcoreapp3.1\SystemApi.Common.pdb

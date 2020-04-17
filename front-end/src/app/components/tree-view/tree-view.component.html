@@ -1,0 +1,53 @@
+<div class="container">
+
+  <div *ngIf="loading" id="loading">
+    <img id="loading-image" src="assets/img/loading/loading.gif" alt="Loading..." />
+  </div>
+
+  <div *ngIf="list && list.length === 0" class="text-center">
+    <p>Your don't have any menu</p>
+    <button class="cursor-pointer text-success" title="Add new menu" (click)="onAdd($event, null)">
+      &#10010; Add new menu
+    </button>
+  </div>
+
+  <button *ngIf="list && list.length > 0" class="cursor-pointer text-success btn-add" title="Add new menu"
+    (click)="onAdd($event, null)">&#10010;</button>
+
+  <div class="tree">
+    <ul class="tree-container">
+      <ng-template #recursiveList let-list>
+        <li *ngFor="let item of list">
+          <span [class.caret]="item.childrens.length > 0" [class.caret-none]="item.childrens.length === 0"
+            [class.caret-down]="item.isOpen" (click)="toggleNode(item)">
+            {{item.displayName}}
+            <button class="cursor-pointer btn-style text-danger" title="Delete"
+              (click)="openModal($event, item)">&#10008;</button>
+            <button class="cursor-pointer btn-style text-warning" title="Edit"
+              (click)="onEdit($event, item)">&#9998;</button>
+            <button class="cursor-pointer text-success btn-style" title="Add"
+              (click)="onAdd($event, item)">&#10010;</button>
+          </span>
+          <ul></ul>
+          <ul *ngIf="item.childrens.length > 0" [class.active]="item.isOpen" class="nested">
+            <ng-container *ngTemplateOutlet="recursiveList; context:{ $implicit: item.childrens }"></ng-container>
+          </ul>
+        </li>
+      </ng-template>
+      <ng-container *ngTemplateOutlet="recursiveList; context:{ $implicit: list }"></ng-container>
+    </ul>
+  </div>
+</div>
+
+<div id="myModal" class="modal">
+  <div class="modal-content">
+    <span class="close" (click)="closeModal($event)">&times;</span>
+    <p>This menu have {{selectedDeleteItem?.childrens.length}} sub-menu. <br>
+      Do you want to delete all sub-menues or move sub-menues to outside</p>
+    <span class="footer-modal">
+      <button class="btn btn-danger btn-sm mr-3" (click)="onDelete($event, true)">Delete all</button>
+      <button class="btn btn-warning btn-sm mr-3" (click)="onDelete($event, false)">Keep sub-menues</button>
+      <button class="btn btn-sm" (click)="closeModal($event)">Cancel</button>
+    </span>
+  </div>
+</div>

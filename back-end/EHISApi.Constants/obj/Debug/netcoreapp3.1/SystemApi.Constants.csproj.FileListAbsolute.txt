@@ -1,0 +1,15 @@
+C:\Users\thuyd\Desktop\CSMS\System\CSMS.API\SystemApi\SystemApi.Constants\bin\Debug\netcoreapp3.1\SystemApi.Constants.deps.json
+C:\Users\thuyd\Desktop\CSMS\System\CSMS.API\SystemApi\SystemApi.Constants\bin\Debug\netcoreapp3.1\SystemApi.Constants.dll
+C:\Users\thuyd\Desktop\CSMS\System\CSMS.API\SystemApi\SystemApi.Constants\bin\Debug\netcoreapp3.1\SystemApi.Constants.pdb
+C:\Users\thuyd\Desktop\CSMS\System\CSMS.API\SystemApi\SystemApi.Constants\obj\Debug\netcoreapp3.1\SystemApi.Constants.AssemblyInfoInputs.cache
+C:\Users\thuyd\Desktop\CSMS\System\CSMS.API\SystemApi\SystemApi.Constants\obj\Debug\netcoreapp3.1\SystemApi.Constants.AssemblyInfo.cs
+C:\Users\thuyd\Desktop\CSMS\System\CSMS.API\SystemApi\SystemApi.Constants\obj\Debug\netcoreapp3.1\SystemApi.Constants.dll
+C:\Users\thuyd\Desktop\CSMS\System\CSMS.API\SystemApi\SystemApi.Constants\obj\Debug\netcoreapp3.1\SystemApi.Constants.pdb
+C:\Users\thuyd\Desktop\CSMS\API - Standard\StandardApi\SystemApi.Constants\bin\Debug\netcoreapp3.1\SystemApi.Constants.deps.json
+C:\Users\thuyd\Desktop\CSMS\API - Standard\StandardApi\SystemApi.Constants\bin\Debug\netcoreapp3.1\SystemApi.Constants.dll
+C:\Users\thuyd\Desktop\CSMS\API - Standard\StandardApi\SystemApi.Constants\bin\Debug\netcoreapp3.1\SystemApi.Constants.pdb
+C:\Users\thuyd\Desktop\CSMS\API - Standard\StandardApi\SystemApi.Constants\obj\Debug\netcoreapp3.1\SystemApi.Constants.csprojAssemblyReference.cache
+C:\Users\thuyd\Desktop\CSMS\API - Standard\StandardApi\SystemApi.Constants\obj\Debug\netcoreapp3.1\SystemApi.Constants.AssemblyInfoInputs.cache
+C:\Users\thuyd\Desktop\CSMS\API - Standard\StandardApi\SystemApi.Constants\obj\Debug\netcoreapp3.1\SystemApi.Constants.AssemblyInfo.cs
+C:\Users\thuyd\Desktop\CSMS\API - Standard\StandardApi\SystemApi.Constants\obj\Debug\netcoreapp3.1\SystemApi.Constants.dll
+C:\Users\thuyd\Desktop\CSMS\API - Standard\StandardApi\SystemApi.Constants\obj\Debug\netcoreapp3.1\SystemApi.Constants.pdb

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SystemApi.Common/1.0.0": {
+        "dependencies": {
+          "SystemApi.Constants": "1.0.0"
+        },
+        "runtime": {
+          "SystemApi.Common.dll": {}
+        }
+      },
+      "SystemApi.Constants/1.0.0": {
+        "runtime": {
+          "SystemApi.Constants.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SystemApi.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SystemApi.Constants/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

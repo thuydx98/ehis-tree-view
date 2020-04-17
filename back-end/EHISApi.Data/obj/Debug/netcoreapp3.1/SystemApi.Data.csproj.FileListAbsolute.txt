@@ -1,0 +1,24 @@
+C:\Users\thuyd\Desktop\CSMS\System\CSMS.API\SystemApi\SystemApi.Data\bin\Debug\netcoreapp3.1\SystemApi.Data.deps.json
+C:\Users\thuyd\Desktop\CSMS\System\CSMS.API\SystemApi\SystemApi.Data\bin\Debug\netcoreapp3.1\SystemApi.Data.dll
+C:\Users\thuyd\Desktop\CSMS\System\CSMS.API\SystemApi\SystemApi.Data\obj\Debug\netcoreapp3.1\SystemApi.Data.csprojAssemblyReference.cache
+C:\Users\thuyd\Desktop\CSMS\System\CSMS.API\SystemApi\SystemApi.Data\obj\Debug\netcoreapp3.1\SystemApi.Data.AssemblyInfoInputs.cache
+C:\Users\thuyd\Desktop\CSMS\System\CSMS.API\SystemApi\SystemApi.Data\obj\Debug\netcoreapp3.1\SystemApi.Data.AssemblyInfo.cs
+C:\Users\thuyd\Desktop\CSMS\System\CSMS.API\SystemApi\SystemApi.Data\bin\Debug\netcoreapp3.1\SystemApi.Data.pdb
+C:\Users\thuyd\Desktop\CSMS\System\CSMS.API\SystemApi\SystemApi.Data\bin\Debug\netcoreapp3.1\SystemApi.Common.dll
+C:\Users\thuyd\Desktop\CSMS\System\CSMS.API\SystemApi\SystemApi.Data\bin\Debug\netcoreapp3.1\SystemApi.Common.pdb
+C:\Users\thuyd\Desktop\CSMS\System\CSMS.API\SystemApi\SystemApi.Data\obj\Debug\netcoreapp3.1\SystemApi.Data.csproj.CopyComplete
+C:\Users\thuyd\Desktop\CSMS\System\CSMS.API\SystemApi\SystemApi.Data\obj\Debug\netcoreapp3.1\SystemApi.Data.dll
+C:\Users\thuyd\Desktop\CSMS\System\CSMS.API\SystemApi\SystemApi.Data\obj\Debug\netcoreapp3.1\SystemApi.Data.pdb
+C:\Users\thuyd\Desktop\CSMS\API - Standard\StandardApi\SystemApi.Data\bin\Debug\netcoreapp3.1\SystemApi.Data.deps.json
+C:\Users\thuyd\Desktop\CSMS\API - Standard\StandardApi\SystemApi.Data\bin\Debug\netcoreapp3.1\SystemApi.Data.dll
+C:\Users\thuyd\Desktop\CSMS\API - Standard\StandardApi\SystemApi.Data\bin\Debug\netcoreapp3.1\SystemApi.Data.pdb
+C:\Users\thuyd\Desktop\CSMS\API - Standard\StandardApi\SystemApi.Data\bin\Debug\netcoreapp3.1\SystemApi.Common.dll
+C:\Users\thuyd\Desktop\CSMS\API - Standard\StandardApi\SystemApi.Data\bin\Debug\netcoreapp3.1\SystemApi.Constants.dll
+C:\Users\thuyd\Desktop\CSMS\API - Standard\StandardApi\SystemApi.Data\bin\Debug\netcoreapp3.1\SystemApi.Common.pdb
+C:\Users\thuyd\Desktop\CSMS\API - Standard\StandardApi\SystemApi.Data\bin\Debug\netcoreapp3.1\SystemApi.Constants.pdb
+C:\Users\thuyd\Desktop\CSMS\API - Standard\StandardApi\SystemApi.Data\obj\Debug\netcoreapp3.1\SystemApi.Data.csprojAssemblyReference.cache
+C:\Users\thuyd\Desktop\CSMS\API - Standard\StandardApi\SystemApi.Data\obj\Debug\netcoreapp3.1\SystemApi.Data.AssemblyInfoInputs.cache
+C:\Users\thuyd\Desktop\CSMS\API - Standard\StandardApi\SystemApi.Data\obj\Debug\netcoreapp3.1\SystemApi.Data.AssemblyInfo.cs
+C:\Users\thuyd\Desktop\CSMS\API - Standard\StandardApi\SystemApi.Data\obj\Debug\netcoreapp3.1\SystemApi.Data.csproj.CopyComplete
+C:\Users\thuyd\Desktop\CSMS\API - Standard\StandardApi\SystemApi.Data\obj\Debug\netcoreapp3.1\SystemApi.Data.dll
+C:\Users\thuyd\Desktop\CSMS\API - Standard\StandardApi\SystemApi.Data\obj\Debug\netcoreapp3.1\SystemApi.Data.pdb
